@@ -1,0 +1,13 @@
+{
+    "name": "korolr/slim",
+    "authors": [
+        {
+            "name": "Alexsey",
+            "email": "ekstazu@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0",
+        "slim/twig-view": "^2.4"
+    }
+}
